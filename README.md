@@ -2,9 +2,8 @@
 
 #### Connect with me:
 
-[<img align="left" alt="Josef Moravec on Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Josef Moravec on LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+* [<img align="left" alt="Josef Moravec on Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> Twitter][twitter]
+* [<img align="left" alt="Josef Moravec on LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> LinkedIn][linkedin]
 
 <img align="left" alt="Josef Moravec's github stats" src="https://github-readme-stats.vercel.app/api?username=xmorave2&show_icons=true&hide_border=true" />
 
